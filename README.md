@@ -58,8 +58,10 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 ![image](https://user-images.githubusercontent.com/106084825/205983292-722178cb-0eb1-448a-a2ba-167c23107ec4.png)
 
 ## Problems and Reflection 
-● Script optimization is necessary to improve detection accuracy. Let's say we run with strange results, but we can't find a more reasonable solution for the moment
-● For corpus preprocessing. We followed the experimental approach of the N gram papers (the authors did not perform this preprocessing process), but in practice we found that not performing this step would have had some impact on the subsequent results.
+● Script optimization is necessary to improve detection accuracy. Let's say we run with strange results, but we can't find a more reasonable solution for the moment.
+  
+● For corpus preprocessing. We followed the experimental approach of the N gram papers (the authors did not perform this preprocessing process), but in practice we found that not performing this step would have had some impact on the subsequent results.  
+
 ● We lack the time to perform each task in the project in more detail.
 
 
