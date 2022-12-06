@@ -1,0 +1,328 @@
+   (BUTTON)
+   [search-icon.png]
+   [user-circle.png]
+     * ____________________
+       (BUTTON)
+
+     * Üye Ol
+       Giriş Yap
+
+     * TARİFLER
+
+     * HABERLER
+
+   (BUTTON) Toggle navigation
+     *
+     * Lezzet Logo
+     * TÜM TARİFLER
+     * LEZZETLİ HABERLER
+     * YAZARLAR
+     * ____________________ [search.png]
+          + TARİFLER
+          + HABERLER
+     * [user-circle.png] ÜYE GİRİŞİ YAPIN Tariflerinizi Gönderin
+
+     * Tüm Tarifler
+     * Lezzetli Haberler
+     * Yazarlar
+     * Ana Yemek
+     * Çocuk
+     * Çorba
+     * Diyet
+     * Dünya Mutfaklarından
+     * Hafif Yemekler
+     * İçecek
+     * Pratik Yemek
+     * Salata ve Meze
+     * Sos
+     * Tatlı
+     * Yöresel
+
+     *
+
+Akşam Yemeği
+
+Balık
+
+Börek
+
+Çikolatalı Tatlı
+
+Diyet Tatlı
+
+Dondurmalı Tatlılar
+
+Et
+
+Fırın
+
+Glutensiz
+
+Hamur İşi
+
+Hindi
+
+Kahvaltılık
+
+Kek
+
+Kırmızı Et
+
+Kremalı Tatlılar
+
+Kurabiye
+
+Makarna
+
+Meze
+
+Öğle Yemeği
+
+Pankek
+
+Pasta
+
+Patlıcanlı
+
+Pilav
+
+Poğaça
+
+Salata
+
+Sebze
+
+Sulu Yemek
+
+Sütlü Tatlılar
+
+Tavuk
+
+Tencere
+
+Vegan Yemek
+
+Vejetaryen
+
+Yoğurtlu
+
+Yulaflı
+
+Yumurtalı
+
+Zeytinyağlı Yemek
+
+   (BUTTON) ×
+
+[user-circle.png] Üye Girişi
+
+   (BUTTON) ×
+
+[sign-in-circle.png] Yeni Üyelik
+
+   (BUTTON) ×
+
+[user-circle.png] Şifremi Unuttum
+
+   Lezzet.com.tr üyeliği oluşturmak ve tarif göndermek için tıklayın.
+   E-posta veya Kullanıcı Adı ____________________
+   Şifre ____________________
+   Üye Ol
+   Şifremi Unuttum
+   (BUTTON) Giriş Yap
+   [chevron_top.png] Üye Girişine Geri Dön
+   [lezzet-kisisel.png]
+   KİŞİSEL ÜYELİK Yemek yapmayı seven herkes içindir :)
+   [lezzet-isletmeler.png]
+   İŞLETME ÜYELİĞİ Restoranlar, cafeler, pastaneler içindir
+   [chevron_top.png] Üye Girişine Geri Dön
+   İŞLETME ÜYELİĞİ
+   Kullanıcı Adı ____________________
+   İsim ve Soyisim İşletme Adı ____________________
+   İşletme Yetkilisi ____________________
+   E-posta Adresi ____________________
+   Şifre ____________________
+   [X] Kullanıcı Sözleşmesini ve Üyelik Formu Aydınlatma Metnini okudum,
+   kabul ediyorum.
+   [X] Doğan Burda tarafından, İletişim İzni uyarınca tarafıma ticari
+   elektronik ileti gönderilmesine onay veriyorum.
+   (BUTTON) Üye Ol
+   [chevron_top.png] Üye Girişine Geri Dön
+   Kullanıcı Adı veya E-posta ____________________
+   (BUTTON) Şifremi Yenile
+
+   ANASAYFA LEZZETLİ HABERLER İSKENDER KEBABIN TARİHÇESİ
+
+İSKENDER KEBABIN TARİHÇESİ
+
+   Türkiye’nin en sevilen lezzetlerinden iskender kebap her dönem en çok
+   beğenilen yemekler arasında. Bu sene koronavirüs nedeniyle daha fazla
+   evde olduğumuz için arama motorlarında 'evde iskender nasıl yapılır?’,
+   'evde iskender tarifi’ aramaları da arttı. Peki, İskender Kebap’ın
+   nasıl ortaya çıktığını biliyor musunuz? İşte iskender kebabın
+   tarihçesi:
+   İskender Kebabın Tarihçesi
+   Güncelleme tarihi: 28 Nisan 2020, 14:36
+
+   Bursa İl Kültür Turizm Müdürlüğü’nün sitesinde İskender Kebap’ın
+   tarihçesi şöyle anlatılıyor:
+
+   İskender Kebap olarak bilinen kebap çeşidi 1867 yılında Mehmetoğlu
+   İskender Efendi tarafından yapılmaya başlanmış ve bütün Dünyaya
+   yayılmıştır. Yatay olarak ateşin üzerinde pişirilen kuzu çevirmeyi
+   ayağa kaldırarak kemikleri ve sinirleri ayıklanmış kuzu etini dikey
+   metal bir çubuk üzerinde kendi etrafında, kömür ateşinde pişmesi
+   sağlanmıştır. Yağlı sinirleri alınmış kuzu etinin kullanıldığı kebap
+   şişe geçirilirken aralarına yağlı koyun kıyması döşenir ateşte dönerek
+   kızartılır pişen etler bıçakla ince kesilir, servis için kebap pideleri
+   kızartılarak tabaklara yerleştirilir üzerine kesilmiş etler, domates
+   sosu, tereyağı, kenarına yoğurt eklenerek servis yapılır.
+
+   [9k=]
+
+   İSKENDER KEBAP NASIL DOĞDU?
+
+   Varisleri, iskender kebabın İskender Efendi’nin Bursa’nın Kayhan
+   semtindeki dükkanında başladığını söylüyor… Peki, İskender Kebap’ın
+   hikayesi nasıl başladı?
+
+   O dönemde kuzu bir bütün olarak ve yere paralel biçimde odun ateşi
+   üzerinde pişirilmektedir. Bu şekliyle kuzunun lezzetli parçaları
+   herkese eşit dağılmaz. İskender Efendi de bu durumun üzerine herkesin
+   aynı oranda, eşit dağılımda aynı lezzeti alabilmesi için çözüm aramaya
+   başlar. Kuzu etini öncelikle sinir ve kemiklerinden ayırır, dikey bir
+   çubuğa kat kat yerleştirir ve dik olarak tasarladığı mangalın önünde
+   döndürerek mangal kömüründe bu harmanı pişirir. Sonuç olarak ortaya
+   iskender kebap çıkar.
+
+   Bu kadar tarihçe yeter, biraz da tarif gerek derseniz, ev yapımı
+   iskender kebap tarifimize göz atın. Aralarında patlıcan kebabı ve kağıt
+   kebabı gibi popüler tarifler de bulunan kırmızı et yemekleri sayfamıza
+   da uğrayabilirsiniz.
+   BUNLARA DA BAKIN
+   Cevizin Faydaları
+   Cevizin Faydaları Nelerdir?
+   Çemen Otu Nedir, Faydaları Nelerdir?
+   Çemen Otu Nedir, Faydaları Nelerdir?
+   Somon Nasıl Pişirilir: Somon Pişirme Teknikleri
+   Somon Nasıl Pişirilir: Somon Pişirme Teknikleri
+   11 Ocak Masterchef Özeti: İlk Finalist Belli Oldu!
+   11 Ocak Masterchef Özeti: İlk Finalist Belli Oldu!
+   TÜMÜNÜ GÖSTER
+   Lezzet Dergisi
+   Lezzet Dergisi'nden en yeni tarifleri ve son haberleri bildirim olarak
+   almak ister misiniz?
+   (BUTTON) Sonra Hatırlat (BUTTON) Bildirimleri al
+   Yeniliklerden haberdar olun!
+
+   Lezzet’ten sürekli haberdar olmak istiyorsanız e-posta adresinizi
+   girerek kaydolun!
+   ____________________
+   Delete KAYIT OL! E-bülten aydınlatma metni
+   Lezzet Dergisi Aralık-Ocak Sayısı
+
+   Dergide bu ay neler var?
+
+   Bu ayın dergi içeriğine göz atmak için tıklayın!
+
+   Abone olmak için detaylı bilgiler burada!
+   EN ÇOK OYLANANLAR
+
+Çikolatalı Fındık Kreması
+
+   [didar_yanar-cd94e86b-d691-408a-816e-3d02a1b68f46] didar_yanar
+
+Yıldızların Altında Keki
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+12 Tatlı Dilim
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Tatlı Kış Ekmeği
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Çikolata Ve Marshmallow İle Tatlı Kaçamak Keki
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Kurabiye Köyü
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Karamelli Elma Şekeri
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Kar Bezeler
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Pratik Boza
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+
+Kurabiye Kutusu
+
+   [zeynep_dinc-890a8724-d2e4-48d3-aa3f-19b052e333c7] zeynep_dinc
+   [INS: :INS]
+   BİZİ TAKİP EDİN!
+   [INS: :INS]
+   [1.png]
+   [2.jpg]
+
+                                 [INS: :INS]
+
+   Popüler Tarif Kategorileri
+   Tatlı Tarifleri
+
+Pasta
+
+Kurabiye
+
+Krema
+
+Çikolata
+
+   Diyet Yemekleri
+
+Glutensiz
+
+Yulaflı
+
+Tatlı
+
+Vejetaryen
+
+Vegan
+
+   Ana Yemekler
+
+Fırın
+
+Tavuk
+
+Zeytinyağlı
+
+Tencere
+
+Sebze
+
+   Hafif Yemekler
+
+Meze
+
+Salata
+
+   Copyright © LEZZET Online
+
+   Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
+   Trump Towers 34387 Şişli - İstanbul Turkey
+   İLETİŞİM KÜNYE GİZLİLİK YAYIN İLKELERİ AYDINLATMA METNİ ÇEREZ
+   POLİTİKASI
+
+   [INS: :INS]
+
+   [chevron_top.png]

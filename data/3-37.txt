@@ -1,0 +1,601 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WTF89PZ
+
+   [logo-text.png]
+     * (BUTTON)
+       Anahtar kelimelerinizi girin _______________
+       
+     * (BUTTON)
+
+     * Koronavirüs
+     * Haber
+          + Türkiye
+          + Eğitim
+          + Tarih
+          + Çevre
+          + İnsan Hakları
+          + Hayvan Hakları
+          + Azınlıklar
+          + Mülteciler
+          + Medya
+          + Sosyal Medya
+          + Suç
+          + Portre
+     * Siyaset
+          + AK Parti
+          + CHP
+          + CHP
+          + HDP
+          + HDP
+          + MHP
+          + İYİ Parti
+          + Diğer Partiler
+          + Diğer Partiler
+          + Erdoğan
+          + Kılıçdaroğlu
+          + Buldan - Temelli
+          + Bahçeli
+          + Akşener
+     * Dünya
+          + Avrupa
+          + Amerika
+          + Asya
+          + Afrika
+          + Ortadoğu
+          + Balkanlar
+          + Kafkasya
+     * Yaşam
+          + Moda
+          + Seyahat
+          + Magazin
+          + Yemek
+          + İlişkiler
+     * BİLİM
+          + Teknoloji
+          + Uzay
+          + Genetik
+          + Yapay Zeka
+     * KÜLTÜR
+          + Sinema
+          + Edebiyat
+          + Müzik
+          + Tiyatro
+          + Güzel Sanatlar
+          + TV
+     * Yazarlar
+          + Robert Fisk
+          + Patrick Cockburn
+          + Nabila Ramdani
+          + Hamish McRae
+          + Muhammed Zahid Gül
+          + Mary Dejevsky
+          + Mark Steel
+          + Nevzat Çiçek
+          + Bel Trew
+          + Sean O'Grady
+          + Kim Sengupta
+          + Lucy Anna Gray
+     * TÜRKİYE'DEN SESLER
+     * DÜNYADAN SESLER
+     * EKONOMİ
+          + Üretim
+          + Emek Dünyası
+          + Tarım
+          + Emlak
+          + Turizm
+          + Şirket Haberleri
+          + Borsa
+          + Sokağın Ekonomisi
+          + Dünya Ekonomisi
+          + Sağlık Turizmi
+          + Ulaşım
+     * Spor
+          + Futbol
+          + Basketbol
+          + Tenis
+          + Golf
+          + Voleybol
+          + Atletizm
+          + Engelli Sporları
+          + Motor Sporları
+          + Güreş
+     * SAĞLIK
+          + Beslenme
+          + Kanser
+          + Estetik
+          + Obezite
+          + Kadın Sağlığı
+          + Kanser
+          + Çocuk Sağlığı
+          + Kalp Sağlığı
+          + Alternatif Tıp
+          + Psikoloji
+          + Koronavirüs
+     * Röportaj
+     * DOSYA
+     * VİDEO
+
+     * (BUTTON)
+       Anahtar kelimelerinizi girin _______________
+       
+
+     * Haber
+          + Eğitim
+          + Tarih
+          + Çevre
+          + İnsan Hakları
+          + Hayvan Hakları
+          + Azınlıklar
+          + Mülteciler
+          + Medya
+          + Sosyal Medya
+          + Suç
+          + Portre
+     * Siyaset
+          + AK Parti
+          + CHP
+          + HDP
+          + MHP
+          + İYİ Parti
+          + Diğer Partiler
+          + Erdoğan
+          + Kılıçdaroğlu
+          + Buldan - Temelli
+          + Bahçeli
+          + Akşener
+     * Dünya
+          + Avrupa
+          + Amerika
+          + Asya
+          + Afrika
+          + Ortadoğu
+          + Balkanlar
+          + Kafkasya
+     * Yaşam
+          + Moda
+          + Seyahat
+          + Magazin
+          + Yemek
+          + İlişkiler
+     * BİLİM
+          + Teknoloji
+          + Uzay
+          + Genetik
+          + Yapay Zeka
+     * KÜLTÜR
+          + Sinema
+          + Edebiyat
+          + Müzik
+          + Tiyatro
+          + Güzel Sanatlar
+          + TV
+     * Yazarlar
+          + Robert Fisk
+          + Patrick Cockburn
+          + Nabila Ramdani
+          + Hamish McRae
+          + Muhammed Zahid Gül
+          + Mary Dejevsky
+          + Mark Steel
+          + Nevzat Çiçek
+          + Bel Trew
+          + Sean O'Grady
+          + Kim Sengupta
+     * TÜRKİYE'DEN SESLER
+     * DÜNYADAN SESLER
+     * EKONOMİ
+          + Üretim
+          + Emek Dünyası
+          + Tarım
+          + Emlak
+          + Turizm
+          + Şirket Haberleri
+          + Borsa
+          + Sokağın Ekonomisi
+          + Dünya Ekonomisi
+          + Sağlık Turizmi
+     * Spor
+          + Futbol
+          + Basketbol
+          + Voleybol
+          + Atletizm
+          + Engelli Sporları
+          + Motor Sporları
+          + Güreş
+     * SAĞLIK
+          + Beslenme
+          + Kanser
+          + Estetik
+          + Obezite
+          + Kadın Sağlığı
+          + Çocuk Sağlığı
+          + Kalp Sağlığı
+          + Alternatif Tıp
+          + Psikoloji
+          + Koronavirüs
+     * Röportaj
+     * DOSYA
+     * Koronavirüs
+
+Buradasınız
+
+   Home » Yaşam » Siirt'in mi, Bitlis'in mi? İki şehir arasında
+   paylaşılamayan lezzet: Büryan kebabı
+
+Siirt'in mi, Bitlis'in mi? İki şehir arasında paylaşılamayan lezzet: Büryan
+kebabı
+
+Bölge mutfağının önemli lezzetlerinden büryan kebabı en çok Siirt ve Bitlis’e
+ait olarak biliniyor ancak bu iki il de büryanın kendisine ait olduğunu iddia
+ediyor
+
+   Abdulhakim Günaydın @abgunaydin [email protected]
+   Perşembe 30 Mayıs 2019 13:00
+   [100421-2005274903.jpg?itok=BZunVeuu]
+
+   İç organları alınmış kuzu etinden yapılan büryan kebabı / Fotoğraf:
+   Independent Türkçe
+
+   Yapılışı, lezzeti ve estetiğiyle şöhret kazanan birçok yiyecek ve
+   tatlının ait olduğu şehir ile ilgili tartışmalar ilgi çeken bir konu
+   olarak sürekli gündemde kendine yer bulur.
+
+   Adana kebabı olarak meşhur olan kebabın aslında Şanlıurfa’ya ait olduğu
+   yıllar yılı hep tartışıldı. Çiğ köfte de Urfalılar ve Adıyamanlılar
+   arasında devam eden bir tartışma. Ciğer Urfa ile Diyarbakır, kadayıf
+   tatlısı Diyarbakır ile Bingöl, künefe Urfa ile Hatay bitmeyen tartışma
+   konusu olarak biliniyor.
+
+
+Büryan.mp4
+
+
+   Siirtliler ‘Siirt Büryan Kebabı Patenti’ni aldı ancak Bitlisliler pes
+   etmiyor ve kendilerine haksızlık yapıldığını düşünüyor.
+
+   İç organları alınmış kuzu etinden hazırlanan büryan kebabı, ortalama 3
+   metre derinliğindeki kuyuda odun ateşinde pişirilerek yapılıyor.
+   Çamurla kaplı olan kuyunun ağzı hiç hava ile temas etmemeli.
+
+
+   büryan-kolaj-2.jpg
+   Büryan, 3 metre derinliğindeki kuyuda ortalama 2-2.5 saat odun ateşinde
+   pişiyor / Independent Türkçe
+
+
+   Askıda olan etin dışında bir de kuyunun dibinde bir kazan var. Kemikli
+   et ile dolu olan kazan ve askıdaki et ortalama 2-2,5 saatte pişiyor.
+   Sıcak olarak yenilen büryan kebabı, kemikli veya kemiksizin yanı sıra
+   yağlı ya da yağsız olarak da servis edilebiliyor.
+
+   Büryan Diyarbakır, Erzurum, Erzincan, Batman, Van ve Muş gibi
+   bölgelerin mutfaklarında yer alır ancak Siirt ve Bitlis yöresinde
+   yapılan büryan kebabı farklı lezzetlere sahiptir.
+
+
+   indir.jpg
+   Yıllardır Bitlis ve Siirtliler arasında "büryan bizim" tartışması var /
+   Fotoğraf: Independent Türkçe
+
+
+   Ünlü seyyah Evliya Çelebi, Seyahatnamesi’nde büryan kebabını anlatır.
+   Çelebi, 1647 yılında Bitlis’i ziyaretinde biftek, büryan kebabı ve
+   zerde büryan pilavı yemeğinin kendisine ikram edildiğinden söz eder.
+
+fazla oku
+
+   Bu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes
+   field)
+
+   Etin özel kuyularda pişirilmesiyle yapılan ve asırlık tarihiyle, önemli
+   bir kültür haline gelen büryan kebabının İstanbul'daki adresi ise
+   Fatih.
+
+   Fatih Kadınlar Pazarı semtinde büryan kebabı yapan Siirtli ve Bitlisli
+   25-30 yıllık ustalar Ayhan Aldemir ve Emrullah Yıldırım büryanın
+   yapılışı, hazırlanışı ve lezzet sırrının yanı sıra tartışmalı hak
+   iddialarını Independent Türkçe’ye anlattı.
+
+
+   indir (1).jpg
+   Büryan kebabı servis edilmeden önce fırında ısıtılarak servis edilir /
+   Fotoğraf: Independent Türkçe
+
+
+   “Büryanın en iyisini Siirtli ustalar yapar”
+
+   30 yıllık büryan ustası Siirtli Ayhan Aldemir, büryanı en iyi Siirtli
+   ustaların yaptığını iddia ediyor.
+
+   Aldemir, “İşletmemiz damak tadına hitap ediyor. Siirtli ustaların
+   lezzetine alışan müşterilerimiz daima gelir. Müşterilerimle dost ve
+   arkadaş gibiyiz. Dolayısıyla kimsenin ne fiyata ne de lezzete itiraz
+   ettiğine rastlamıyoruz. Kimse ben işimi kötü yapıyorum demez ama
+   gerçekten Siirtli ustalar işlerinin hakkını verir. Başka bölgelerin
+   ustaları bizimle yarışamaz. Büryan Siirt için bir değerdir ve kendi
+   adına da tescillemiştir” diye konuştu.
+
+   Eti Güneydoğu’nun Gaziantep, Diyarbakır ve Siirt gibi bölgelerden
+   getirdiklerini belirterek, büryana sadece kuzu eti kullandıklarını
+   söyledi.
+
+   Kuzuyu iç organlarından temizlendikten sonra zayıf veya dolgunluğuna
+   göre 3 metre derinliğindeki kuyuda dumansız odun ateşinde etin durumuna
+   göre 2-3 saat beklettiklerini ifade eden Aldemir, etin ortalama 400-450
+   derecede piştiğini söyledi.
+
+
+   indir (2).jpg
+   Büryan kebabı / Fotoğraf: Independent Türkçe
+
+
+   Büryan kebabının ağzı çamurla kapatılmış kuyunun içinde buharla
+   standart bir sürede piştiğini anlatan Aldemir, “Askıda etin dışında bir
+   de kuyunun dibinde etli kemiklerin içinde olduğu bir kazan var.
+   Askıdaki etten süzülen yağlar kazana damlar. Büryanın kemikli eti
+   dediğimiz bölümü de bu kazanın içinde bulunur. Bu yağlar ete çok güzel
+   bir lezzet verir. Kimi müşterilerin özellikle kemikli büryan
+   istemelerinin altında yatan neden de budur” dedi.
+
+   “Bitlis’in büryanı her şeyi ile farklıdır”
+
+   Büryanın asıl vatanının Hindistan olduğunu ve Bitlis’e göçenler
+   tarafından getirildiğini aktaran 25 yıllık büryan ustası Bitlisli
+   Emrullah Yıldırım ise Siirt, Van, Muş gibi birçok bölgenin Bitlis’e
+   bağlı olduğunu ve Siirtli vatandaşların Bitlisli ustaların yanında
+   çalışa çalışa büryanın yapılışını öğrendiklerini dile getirdi.
+
+
+   Emrullah Yıldırım.jpg
+   Emrullah Yıldırım / Fotoğraf: Independent Türkçe
+
+
+   Yıldırım, esas kültürün Bitlis’e ait olduğunu ama Siirtli ustaların
+   erken davranıp büryanı kendi şehirleri adına tescilleyerek
+   Bitlislilerden çaldıklarını savundu.
+
+   Bitlis ile Siirtli ustaların yaptığı büryan kebabı arasında teknik
+   olarak dağlar kadar fark olduğunu anlatan Yıldırım, “Bizler eti kaya
+   tuzu ile tuzlarız onlar tuzlamaz; eti yıkarız onlar yıkamaz; onlar
+   kuyudan çıkartıp servisten önce tekrar fırına atarlar biz tandırdan
+   çıkarttığımız gibi servis yaparız. Yani bizim et fırın görmez. Onlar
+   kemikli büryanı suda haşlar, biz kemikleri haşladığımız suyu Avşor
+   çorbası yaparız. En önemlisi de et tercihidir. Biz oğlak onlar kuzu
+   yapar. Oğlak yayla hayvanıdır, en güzel ve temiz yerden otlanır. Yani
+   hayvanların beslenmesinde bile farklar var” yorumunda bulundu.
+
+   Yöntem, usta farkı ve kullanılan etin pişirilmesi bir yana kesilmesinin
+   bile ustalık gerektirdiğini savunan Yıldırım, Bitlisli ustaların eti
+   büyük dilimler şeklinde doğrarken, Siirtli ustaların et sote gibi küçük
+   parçacıklar şeklinde doğradığını, etin sote değil lop demek olduğunu
+   ifade etti.
+
+   Müşteriler de Siirt'le Bitlis arasında bölünmüş
+
+   Büryan kebabının tutkunlarından Fatih Kadınlar Pazarı semtinin
+   müdavimi Ömer Hazar, ayda birkaç defa arkadaşlarıyla beraber Yalova’dan
+   büryan yemeye geldiklerini söyledi.
+
+   Öğrenci oldukları için bütçelerini zorladığını ve ramazan öncesi
+   fiyatların daha makul olduğunu kaydeden Hazar, “Ramazan ayında normal
+   zamanlardan daha fazla ilgi oluyor. Muhtemelen ondan dolayı fiyatlarda
+   bir değişme oldu. Siirtli olduğum için demiyorum ama Siirt ustaların
+   yaptığı büryan hiç kimsenin yaptığına benzemez” ifadelerini kullandı.
+
+
+   13.jpg
+   Fotoğraf: Independent Türkçe
+
+
+   “Büryan Bitlis merkezli bir kebap”
+
+   Aynı öğrenci grubunun üyelerinden Adnan Polat ise, büryanın Bitlis
+   merkezli bir kebap olduğunu savunarak, eskiden Siirt sancağının Bitlis
+   vilayetine bağlı olduğunu ve dolayısıyla bunun da göz önünde
+   bulundurulması gerektiğini ifade etti.
+
+   Kendisi için her şeyden önce lezzetin önemli olduğunu savunan Polat,
+   “Benim için gerekli olan damak tadı. Hem tarihi hem de kültürel olarak
+   büryanın Bitlis’e ait olduğunu düşünüyorum. Evliya Çelebi dahi
+   Seyahatnamesi’nde Bitlis’te büryan yediğini söylüyor. Haklarını yememek
+   lazım Siirtli Arap ustalar da büryanı çok lezzetli yaparlar” dedi.
+
+
+   © The Independentturkish
+
+DAHA FAZLA OKU
+
+     * İstanbul’da ramazan pidesine rakip tandır ekmeği
+
+   Hakkında daha ayrıntılı: siirtBitlisBÜRYAN KEBABIistanbul
+
+DAHA FAZLA HABER OKU
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Associated Press, foto muhabirlerinin çalışmaları için NFT pazarı açıyor
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+İğne korkusundan aşı yaptırmayan video oyunu geliştiricisi, Kovid'den
+hayatını kaybetti
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Mutfaktaki kabusa son: Göz yakmayan soğanlar geliyor
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+İşten ayrılıp OnlyFans'e porno içerik üreten çift: "Ayda 10 bin sterlin
+kazanıyoruz"
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Kripto paracılar Elon Musk başlı keçi heykeli dikiyor
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Hayvanat bahçesindeki "gizemli yaratığın" sırrı çözüldü
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Brezilya'da elleri kelepçeli mahkum, hareket halindeki polis aracından kaçtı
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+12 yıl önce kaybolan kedi evine döndü
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+NBA yıldızının eşi, "açık evlilik" söylentilerine sert çıktı
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+ABD'de yeni doğurduğu bebeğini çöpe atan anne tutuklandı
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Kendall Jenner düğün kıyafetine gelen eleştirilere cevap verdi
+
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Eski çalışanına bozuk parayla ödeme yapan işverene dava açıldı
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Pussycat Dolls üyeleri turnelerinin iptal olduğunu Nicole Scherzinger’in
+Instagram'ından öğrendiklerini iddia etti
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+ABD'nin Squid Game'i: Onlarca yıl önce düzenlenen ırkçı oyunların hikayesi
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Sekseni aşkın devekuşu sokakları istila etti
+
+   ÇEVİRİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+110 milyon sterlinlik yatla tatil yapan Leonardo DiCaprio "iklim
+yalancılığıyla" suçlandı
+
+EN ÇOK OKUNANLAR
+
+SON HABERLER
+
+Cumhurbaşkanı Erdoğan, partisinin grup toplantısında açıklamalarda bulundu
+
+Associated Press, foto muhabirlerinin çalışmaları için NFT pazarı açıyor
+
+Taliban, "buğdayla maaş ödeme" programının tüm ülkede uygulanacağını duyurdu
+
+Çetinkaya: Osmanlı'da sosyalizm gayrimüslimlere münhasır değildi
+
+ABD ordusu, halktan da gönüllülerin katıldığı gerilla savaşı tatbikatı
+yapacak
+
+YAZARLAR
+
+   Borzou Daragahi
+
+Pek ilgilenmesek de IŞİD hâlâ hayatta ve tehlikeli
+
+   Sean O'Grady
+
+Novak Djokovic meselesinde sakinleşmeliyiz: Hiçbir kuralı ihlal etmiş değil
+
+   Harriet Williamson
+
+Teşekkürler Emma Watson, Filistinlilerin hakları savunulmayı ve ilgiyi hak
+ediyor
+
+   Harry Cockburn
+
+Don't Look Up haklı, sonumuz yakın: Hiç umursayacak mıyız?
+
+   Chelsea Ritschel
+
+5 ay boyunca günde 10 bin adım yürüyerek ne kazandım ve ne kaybettim?
+
+TÜRKİYE'DEN SESLER
+
+   Celalettin Can
+
+'Çözüm süreci' ve 'çatışmasızlık' hali HDP'yi güçlendirince… (1)
+
+   Hakan Gülseven
+
+"Cemaat", Savaştepe, babalar, çocuklar...
+
+   Prof. Dr. Mesut Uyar
+
+Astsubay sorununun ihmal edilen boyutu
+
+   Deniz Unay
+
+Simgelerin köprüsü "1915 Çanakkale"
+
+   Rüveyda Çelenk Yılmaz
+
+Enes'in ardından
+
+DÜNYADAN SESLER
+
+   Gassan Şerbil
+
+Putin intikam almaya geldi
+
+   Cibril Ubeydi
+
+Tunus'taki Nahda Hareketi'ni bekleyen büyük dosyalar
+
+   Nebil Amr
+
+2022 İsrail'i… Akıllılar ve deliler
+
+   Emile Amin
+
+ABD'nin çehresini değiştiren altı saat!
+
+   Emir Tahiri
+
+Küresel sistem: Geleceğe dönüş
+
+   Logo
+
+Bizi takip edin:
+
+     * Kullanıcı Politikaları
+     * Gizlilik Bildirimi
+
+   Türkçe tüm hakları Media Arabia'ya aittir 2019 ©

@@ -1,0 +1,554 @@
+   #Flux - Forum Prepas.org Flux - Nouveaux sujets Flux - Forum -
+   Questions générales sur les écoles Flux - Sujet - De l'intérêt du
+   double-diplôme ?
+
+   prepa(s).org Le forum public Prepas.org de l'UPS
+
+
+
+De l'intérêt du double-diplôme ?
+
+   Les questions sur les écoles d'ingénieurs et autres.
+   Répondre
+
+
+   15 messages
+
+   Archibalde
+
+   Messages : 0
+
+   Enregistré le : 18 déc. 2018 23:49
+
+   Classe : S5
+
+De l'intérêt du double-diplôme ?
+
+
+   Message par Archibalde » 05 janv. 2019 13:29
+   Bonjour,
+   Je suis en 1A dans une école d'ingé dite A+, et je me pose des
+   questions sur mon cursus, et sur les "bons" choix à faire, notamment au
+   sujet de la césure, du double-diplôme, voir plus tard d'une éventuelle
+   thèse. D'où ce topic pour demander conseil.
+   Je suis intéressé par les mathématiques appliquées, et particulièrement
+   le traitement du signal (mon TIPE portait sur du traitement numérique
+   du signal sonore, et c'était plutôt cool). J'ai fait un peu de ML aussi
+   et ça m'a aussi bien intéressé (plus du point de vue théorique
+   qu'applicatif). Plus tard je m'imagine assez mal abandonner ce côté
+   théorique. Mais je ne sais pas encore parfaitement ce que je veux
+   faire.
+   Mon école offre la possibilité d'effectuer un semestre de la 2A dans
+   une université étrangère. Nous avons également la possibilité de
+   postuler au MVA en 3ème année pour le faire en parallèle de la
+   dernières année d'école, qui ne peut pas se faire à l'étranger. Dans
+   l'idéal je souhaiterais le faire car certains cours proposés
+   m'intéressent.
+   Dans ce contexte, je me demandais quelle valeur pouvait avoir un
+   double-diplôme dans le domaine maths/info (type celui-là, celui-ci,, ou
+   encore celui-ci ou celui-là. Idéalement, il faudrait que les crédits
+   obtenus en 2A en échange comptent pour le programme de master (j'ai
+   posé la question à TokyoTech, pas de réponse pour l'instant).
+   Ce que je crains un peu, c'est que ces programmes de masters soient
+   redondants avec ce que je pourrais voir en 3A, et éventuellement au MVA
+   si cela se fait. Sur des topics que j'ai pu lire à ce sujet, certaines
+   personnes voyaient l'intérêt du double-diplôme dans la possibilité
+   d'acquérir une double-compétence. J'ai cependant un peu de mal à voir
+   pour moi ce qui m'irait : c'est quand même un engagement de 2 ans (dans
+   le cas du Japon, éventuellement possiblement réduit) non-négligeable.
+   Une idée ?
+   De plus, faire un double-diplôme de ce type impliquerait de le faire,
+   idéalement, pendant un semestre de 2A, puis en césure entre la 2A et
+   3A, ce qui élimine de facto la possibilité de faire des stages pendant
+   la césure. Cela rend aussi difficile la réalisation des 4 mois de stage
+   obligatoires imposés par mon école.
+   Enfin, vient la question du stage de fin d'étude. J'ai cru lire qu'il
+   prenait souvent en France la forme d'une pré-embauche. Il serait donc
+   peut-être maladroit (justification malaisée auprès des employeurs) de
+   compléter un DD après sa 3A, qui nécessiterait par exemple un semestre
+   en plus.
+   Pour info, je me renseigne sur les doubles-diplômes au Japon ci-dessus,
+   car ça me semble quand même être une excellente opportunité d'un point
+   de vue personnel, pour avoir des cours intéressants, sortir un peu de
+   France, apprendre la langue, découvrir plus en profondeur une culture
+   qui attise ma curiosité qu'en un semestre en 2A. C'est vrai que dit
+   comme ça ça peut faire un peu pipo, mais j'espère quand même qu'une
+   telle expérience peut-être valorisée professionnellement.
+   Enfin peut-être que la même chose est possible en stage en césure au
+   lieu d'un double-diplôme, mais ce que je me demande finalement, c'est
+   qu'est-ce que les entreprises préfèrent ? Si jamais je veux travailler
+   dans une entreprise en lien avec le Japon (type entreprise française au
+   Japon, ou l'inverse, ou que sais-je), les entreprises étrangères
+   sont-elles friandes d'un diplôme "local" ? Ou un semestre d'échange non
+   diplômant peut à lui seul être valorisant ?
+   Qu'en pensez-vous ?
+   Merci beaucoup :)
+   Haut
+
+   Helserdin
+
+   Messages : 0
+
+   Enregistré le : 02 août 2018 02:11
+
+   Classe : 1A
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Helserdin » 05 janv. 2019 14:33
+   Vu que tu es probablement aux Mines (me trompe-je ? :mrgreen: ), j'ai
+   discuté avec l'intervenant du cours "ingénieur en 2022" sur
+   l'intelligence artificielle. Il m'a expliqué de son côté que le MVA
+   était certes très intéressant et faisait beaucoup apprendre, mais qu'il
+   valait mieux faire un Master à l'étranger plus prestigieux et reconnu
+   internationalement. Il était d'avis que de toute façon, l'intelligence
+   artificielle ça s'apprend mieux en apprenant sur Internet et en
+   bidouillant qu'en suivant un cours sur un domaine bien précis de
+   l'intelligence artificielle (la vision artificielle en l'occurence).
+   Après il faut bien dire que dans ce cas là l'approche est moins
+   théorique... Donc suivre un cours à l'université de Tokyo puis DD
+   serait a priori plus pertinent si on suit ce qu'il dit; reste à
+   demander aux gens en S3E ce qu'ils en pensent :D
+   Surtout qu'apprendre le Japonais pour travailler dans ce domaine est
+   loin d'être idiot :D
+   Tu peux aussi te renseigner sur la possibilité de suivre des cours à
+   Ulm (si tu es aux Mines), s'ils en ont sur le sujet.
+   Tu peux aussi poser la question à la DE sur comment ça marche en
+   pratique...
+   MP
+   2018 - : Mines Paristech
+   Haut
+
+   father
+
+   Messages : 4248
+
+   Enregistré le : 10 nov. 2010 22:03
+
+   Classe : 3J8VR2
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par father » 05 janv. 2019 18:05
+   Rien ne me convainc dans ces arguments, l histoire du prestige, le
+   japonais (une langue difficile..), la collaboration entre des
+   entreprises francaises et japonaises (l actualite prouve le contraire)
+   En revanche, un semestre a l etranger, le mva voire en complément une
+   bonne these en france ou a l etranger voire en cotutelle.. cela semble
+   assez robuste.
+   Qu en pense Hibiscus ?
+   Haut
+
+   Helserdin
+
+   Messages : 0
+
+   Enregistré le : 02 août 2018 02:11
+
+   Classe : 1A
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Helserdin » 05 janv. 2019 19:05
+
+   father a écrit : ↑
+   05 janv. 2019 18:05
+   Rien ne me convainc dans ces arguments, l histoire du prestige, le
+   japonais (une langue difficile..), la collaboration entre des
+   entreprises francaises et japonaises (l actualite prouve le contraire)
+   En revanche, un semestre a l etranger, le mva voire en complément une
+   bonne these en france ou a l etranger voire en cotutelle.. cela semble
+   assez robuste.
+   Qu en pense Hibiscus ?
+
+   J'ai juste retranscrit ce que disait l'intervenant. Après, outre
+   Hibiscus qui est bien placé pour parler du Japon, il faudrait aussi
+   demander à d'autres gens qui travaillent dans l'intelligence
+   artificielle ce qu'ils en pensent (il doit y en avoir dans son école).
+   Connaître le Japon pour travailler dans des secteurs à la pointe de la
+   technologie doit ouvrir des portes j'imagine, avant même de parler de
+   travailler dans une entreprise japonaise...
+   MP
+   2018 - : Mines Paristech
+   Haut
+
+   Hibiscus
+
+   Messages : 38
+
+   Enregistré le : 27 oct. 2017 10:55
+
+   Classe : Bac a fleurs
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Hibiscus » 06 janv. 2019 05:29
+   Je vais parler en généralités, quand même, pour commencer, on verra
+   après.
+   Quelques petites mises en gardes sur le système éducatif d'abord :
+   - Les cours seront de moins bonne quantité (un peu qualité, si tu es
+   dans une grande école) au Japon, ou le but d'un master est de préparer
+   les élèves à rentrer en doctorat. Au même titre, le premier et dernier
+   lien, le g30&ist, sont à ma connaissance des programmes qui te
+   recommandent fortement/obligent d'aller en thèse après. (notamment en
+   terme d'engagement de financement et autres.) Ces derniers sont parfois
+   difficiles à obtenir. (GRE Subject..)
+   - L'apprentissage de la langue, ne serait-ce qu'un minimum, reste,
+   quoique te diront tous les sites et publicités, indispensable. Tu peux
+   rentrer dans un programme dit anglais, et, comme ça a pu t'arriver dans
+   ton école si tu as des cours "en anglais", mais avec un seul auditeur
+   étranger pour 30 français, ça devient 50-50 sur les langues. Si tu
+   restes plus de 3 mois, tu auras aussi une quantité non négligeable
+   d'obligations administratives (etc..) qui nécéssitent un niveau de
+   langue de base. (c'est comme en France, imagine-toi vivre ici sans
+   parler un mot).
+   Bon, je mens, je connais des gens qui sont venus sans rien comprendre,
+   et s'en sont sortis, mais ça sera beaucoup plus amusant et enrichissant
+   si t'as un (même un petit) niveau de japonais avant. [Fais attention
+   aux gens de linalco, c'est parfois très bof :? ]
+   - La qualité de ton expérience et de ta vie au Japon dépend avant tout
+   du laboratoire, et du professeur sous l'égide duquel tu seras. Pas de
+   l'université.
+   Je connais personne en mathapp/info/ingé, donc je ne peux pas te
+   renseigner, mais en général, les ressentis varient du tout au tout,
+   d'un labo à l'autre.
+   - La rentrée pour un étranger aura presque toujours lieu le 1er
+   Octobre. (occasionnellement en avril). Ca risque de chambouler un
+   certain nombre de tes plans.
+   - Tu as la possibilité de faire une période (6 mois en général) qui ne
+   te rapporte pas de crédits, un peu comme un stage de recherche, mais
+   avec accréditation universitaire, et c'est une solution qui est souvent
+   préférable à faire un Master. Notamment à cause de cette rentrée en
+   Octobre, la plupart des gens finissent par "perdre un an". (ce qui
+   correspond aussi à passer un an à revoir les mêmes notions, mais à
+   apprendre le vocabulaire scientifique japonais, ce qui n'est pas un mal
+   quand on veut rester longtemps, mais dans ton cas....). C'est cette
+   redondance que les élèves choisissent souvent, même si tu la crains un
+   peu. C'est pas une mauvaise chose d'avoir un deuxième master dans la
+   même discipline, si tous les cours sont en japonais, par exemple.
+   - Un engagement d'un an et quelques, ça n'existe pas, à part cette
+   histoire d' "étudiant de recherche", non diplômant. Tout simplement
+   parce que, frais de scolarité, frais de dossiers, frais d'admission,
+   frais de logement, tout ça, pour un an, ça vaut clairement pas le coup.
+   Et si tu obtiens le support (difficile) de l'ambassade, ou du ministère
+   (MexT), on te demandera de rester plus longtemps.
+   J'vais m'arrêter là pour cette partie, mais on pourrait continuer
+   encore..
+   Ensuite,
+   - Pour les problèmes liés à ton école / ton système
+   2A:3A:césure:stagedefind'étude patincouffin, j'en sais rien. Faudra,
+   comme les autres élèves, passer quelques heures au service scola pour
+   en discuter, clarifier, étaler les possibilités, les concessions que
+   toi et eux seront prêts à faire.
+   - Oui, si tu veux travailler chez Mitsubishi à Kanagawa, cette
+   expérience est "indispensable". (genre méga-préférable).
+   Si tu veux travailler chez Sony Europe, tout le monde s'en fout, le
+   siège n'a aucune attache japonaise. (Ils n'enlèvent même pas leurs
+   chaussures, c'est te dire ! :) )
+   - Sortir de France, découvrir la culture toussa, oui, d'accord. Mais en
+   4 mois de stage, c'est bien aussi, et ça coupe pas tout. Par contre, si
+   tu veux essayer une thèse au Japon après, par exemple, y faire un
+   double-diplôme serait important. Mais à partir du moment ou tu as des
+   objectifs professionnels différents, faut essayer de faire des choix
+   cohérents. 2 ans ici, pour bosser chez Nikon France, ça n'apporte rien.
+   Autant faire un stage, ça te laissera plus de temps pour faire du
+   tourisme. Le stage sera valorisé aux yeux d'un français, justement
+   puisque t'es sorti de ton cocon.
+   J'vais m'arrêter là, ça fait déjà du bon pavé..
+   Lycée Masséna (Pcsi-PC*) -- École polytechnique (X15) -- PhD Student
+   (Japon, Astrophysique) -- Ingé (spatial)
+   Haut
+
+   Helserdin
+
+   Messages : 0
+
+   Enregistré le : 02 août 2018 02:11
+
+   Classe : 1A
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Helserdin » 06 janv. 2019 13:50
+   Juste pour clarifier : puisqu'il s'agit probablement de l'École des
+   mines (école de rang A+ qui ne laisse pas faire sa 3A à l'étranger y en
+   a pas des masses, et tout le reste colle), il s'agit bien d'un semestre
+   d'échange. Très concrètement, le cursus aux Mines c'est 1A en tronc
+   commun (S1 et S2), puis S3 recherche avec projet en labo OU S3
+   académique OU S3 Étranger (académique ou recherche) dans une université
+   étrangère. Le S4 se fait à la Mine, il y a un stage tehnicien à la fin
+   je crois, comme dans toute école d'ingé. Il y a ensuite une césure pour
+   95% des élèves. Cette césure est consacrée à 2 stages ou alors à un
+   double-diplôme (étranger souvent). Le double-diplôme peut prendre en
+   compte les cours pris en S3 Étranger. À la fin de la 3A, (en Janvier
+   environ), c'est le PFE, projet de fin d'étude, stage dans une
+   entreprise, souvent de pré-embauche.
+   Donc là je pense qu'on parle d'un S3 au Japon en échange,
+   éventuellement pris en compte dans le cadre d'une césure diplômante.
+   Pas de souci d'incorporation dans le cursus donc. Et à mon avis
+   Archibalde apprend le Japonais aux Mines.
+   MP
+   2018 - : Mines Paristech
+   Haut
+
+   father
+
+   Messages : 4248
+
+   Enregistré le : 10 nov. 2010 22:03
+
+   Classe : 3J8VR2
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par father » 06 janv. 2019 15:58
+   On y voit plus clair. La cesure permettra t elle la double diplomation
+   au japon ? Cela reste a prouver.
+   Accessoirement, on peut s etonner que ton collègue vienne sur ce forum
+   pour obtenir des info que votre école devrait pouvoir lui fournir...
+   Mais cela reste intéressant.
+   Vous pouvez acceder au mva en 3a ?
+   Cela remplace mareva ou cela complète ?
+   Haut
+
+   Helserdin
+
+   Messages : 0
+
+   Enregistré le : 02 août 2018 02:11
+
+   Classe : 1A
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Helserdin » 06 janv. 2019 18:17
+
+   father a écrit : ↑
+   06 janv. 2019 15:58
+   On y voit plus clair. La cesure permettra t elle la double diplomation
+   au japon ? Cela reste a prouver.
+   Accessoirement, on peut s etonner que ton collègue vienne sur ce forum
+   pour obtenir des info que votre école devrait pouvoir lui fournir...
+   Mais cela reste intéressant.
+   Vous pouvez acceder au mva en 3a ?
+   Cela remplace mareva ou cela complète ?
+
+   Ça complète a priori. Après les premiers mois aux Mines sont très
+   denses; c'est difficile d'y voir clair sur les possibilités offertes et
+   pour être honnête c'est un peu délicat de demander aux 2A ce qu'il est
+   possible de faire. La DE est très disponible, mais c'est un peu
+   compliqué aussi s'il faut demander un rendez-vous pour avoir toutes les
+   informations. Ça marche par amphi d'information avant les échéances
+   (genre le S3E on a eu les infos fin Novembre je crois). Et oui le MVA
+   est accessible en 3A je crois (et au pire ça se négocie)... Ça complète
+   probablement.
+   MP
+   2018 - : Mines Paristech
+   Haut
+
+   Archibalde
+
+   Messages : 0
+
+   Enregistré le : 18 déc. 2018 23:49
+
+   Classe : S5
+
+Re: De l'intérêt du double-diplôme ?
+
+
+   Message par Archibalde » 07 janv. 2019 01:29
+   Merci pour vos réponses !
+
+   Hibiscus a écrit : ↑
+   06 janv. 2019 05:29
+   - Les cours seront de moins bonne quantité (un peu qualité, si tu es
+   dans une grande école) au Japon, ou le but d'un master est de préparer
+   les élèves à rentrer en doctorat. Au même titre, le premier et dernier
+   lien, le g30&ist, sont à ma connaissance des programmes qui te
+   recommandent fortement/obligent d'aller en thèse après. (notamment en
+   terme d'engagement de financement et autres.) Ces derniers sont parfois
+   difficiles à obtenir. (GRE Subject..)
+
+   Effectivement j'ai constaté que la plupart des programmes de masters
+   poussaient à faire une thèse dans le même programme ("integrated
+   doctoral program"). C'est la première fois que je vois ça et j'en suis
+   assez surpris. Est-ce que ça veut dire que les étudiants japonais en
+   ingénieurie / maths app font généralement une thèse, et qu'il est peu
+   commun de s'arrêter après bachelor + master ?
+   Une curiosité sur cette question de la thèse est qu'elle a l'air
+   payante (admission&tuition fees), et pas rien : par exemple 282,000 yen
+   d'admission + 635,400 yen par an à TokyoTech (pour les programmes en
+   japonais). En France c'est l'inverse, j'ai cru comprendre que des
+   rémunérations existaient via les thèses CIFRE. Pas évident donc
+   d'envisager un programme type master + thèse au Japon sans garantie de
+   bourse... Enfin c'est au delà de mes moyens financiers et de ceux de
+   mes parents, en tout cas, mais y a l'air pas mal de possibilité de
+   bourses. Et surtout, puisque je suis plus dans une optique de tâter le
+   terrain pour le moment, je me vois mal le faire.
+   Father parlait de cotutelle, qu'est-ce que cela change ?
+
+   Hibiscus a écrit : ↑
+   06 janv. 2019 05:29
+   - Tu as la possibilité de faire une période (6 mois en général) qui ne
+   te rapporte pas de crédits, un peu comme un stage de recherche, mais
+   avec accréditation universitaire, et c'est une solution qui est souvent
+   préférable à faire un Master. Notamment à cause de cette rentrée en
+   Octobre, la plupart des gens finissent par "perdre un an". (ce qui
+   correspond aussi à passer un an à revoir les mêmes notions, mais à
+   apprendre le vocabulaire scientifique japonais, ce qui n'est pas un mal
+   quand on veut rester longtemps, mais dans ton cas....). C'est cette
+   redondance que les élèves choisissent souvent, même si tu la crains un
+   peu. C'est pas une mauvaise chose d'avoir un deuxième master dans la
+   même discipline, si tous les cours sont en japonais, par exemple.
+
+   Ayant commencé le japonais cette année, ça me semble difficile... Je
+   pense effectivement que les 6 mois dont tu parles c'est ce qu'on peut
+
+   Hibiscus a écrit : ↑
+   06 janv. 2019 05:29
+   Mais à partir du moment ou tu as des objectifs professionnels
+   différents, faut essayer de faire des choix cohérents.
+
+   TL;DR : Si je veux bosser en France mieux vaut faire des stages, si
+   l'envie me prend de bosser au Japon (avec éventuellement une thèse en
+   vue), mieux vaut faire un DD/master ?
+
+   father a écrit : ↑
+   06 janv. 2019 15:58
+   On y voit plus clair. La cesure permettra t elle la double diplomation
+   au japon ? Cela reste a prouver.
+   Accessoirement, on peut s etonner que ton collègue vienne sur ce forum
+   pour obtenir des info que votre école devrait pouvoir lui fournir...
+
+   Pour en avoir discuté avec la responsable des échanges académiques,
+   cela ne s'est encore jamais fait mais l'école encouragerait. Reste à
+   savoir si les universités seraient prêtes à ce que je fasse ça en 1 an
+   et demi au lieu de 2, et en plus en découpant en un semestre de 2A, et
+   un an césure... Ce qui est à mon avis très très loin d'être gagné. Et
+   effectivement je ferai bien d'aller voir le DE pour lui demander ce
+   qu'il en pense.
+   Le MVA complète effectivement MAREVA, avec décharge de cours des deux
+   côtés. D'après mes sources ce n'est pas une partie de plaisir de suivre
+   les deux cursus en parallèle (et j'imagine pas ce que ça va être avec
+   le déménagement de Cachan sur le plateau...).
+   Merci !
+   (Edit : Réponse de TokyoTech quant à la possibilité de comptabiliser
+   les crédits d'un échange non-diplômant en tant que crédits diplômants
+   (pour éviter de faire 2 ans derrière) : non, quoique la personne avant
+   m'avait dit oui mais pas sûr... En soi assez logique. Du coup ça me
+   semble très compliqué dans mon cas, car il faudrait que je trouve un
+   programme commençant en avril 2019 (2ème semestre de 2A, où on est
+   aussi autorisé à partir des Mines).)
+   Haut
+
+   Hibiscus
+
+   Messages : 38
+
+   Enregistré le : 27 oct. 2017 10:55
+
+   Classe : Bac a fleurs
+
+
+   Message par Hibiscus » 07 janv. 2019 03:25
+
+   Archibalde a écrit : ↑
+   07 janv. 2019 01:29
+   Effectivement j'ai constaté que la plupart des programmes de masters
+   poussaient à faire une thèse dans le même programme ("integrated
+   doctoral program"). C'est la première fois que je vois ça et j'en suis
+   assez surpris. Est-ce que ça veut dire que les étudiants japonais en
+   ingénieurie / maths app font généralement une thèse, et qu'il est peu
+   commun de s'arrêter après bachelor + master ?
+   Une curiosité sur cette question de la thèse est qu'elle a l'air
+   payante (admission&tuition fees), et pas rien : par exemple 282,000 yen
+   d'admission + 635,400 yen par an
+
+   Alors. Non, pas les japonais.
+   Par contre, les gens qui veulent commencer une thèse sont encouragés à
+   obtenir ce qu'on appelle le DC1 (grant, beaucoup de sous), venant de la
+   JSPS, l' "Académie des sciences". (difficile de trouver un équivalent).
+   Il est donc très facile pour un étranger de continuer en thèse après
+   son master. La politique d'immigration actuelle soutient aussi ça,
+   ouverture machintoussa.
+   Les frais d'admission & de scolarité sont quasi identiques dans toutes
+   les écoles, puisque fixés par le Ministère (MexT). Au passage, ça fait
+   2000+6000€, ça reste faible par rapport à l'anglosaxon.
+   Si tu obtiens une recommandation de ton ambassade, ou de l'université,
+   tu ne les payeras pas.
+   Si tu obtiens notamment le support MexT pour un kenkyuusei, étudiant de
+   recherche (6 mois, typiquement), tu ne les payes pas non plus, et tu
+   recevras aussi une aide financière. Existent également beaucoup de
+   bourses (Jasso, etc..), et la possibilité facile d'être TA/RA quand on
+   est un étranger sympa. (A noter qu'un niveau, disons.. N4-N3 de
+   japonais serait recommandé pour ça).
+
+   Archibalde a écrit : ↑
+   07 janv. 2019 01:29
+   Father parlait de cotutelle, qu'est-ce que cela change ?
+
+   Ici, ya très peu de cotutelle de la part d'entreprises, pour les
+   thèses. Mais beaucoup de financements existent, donc c'est rarement un
+   problème.
+
+   Archibalde a écrit : ↑
+   07 janv. 2019 01:29
+   TL;DR : Si je veux bosser en France mieux vaut faire des stages, si
+   l'envie me prend de bosser au Japon (avec éventuellement une thèse en
+   vue), mieux vaut faire un DD/master ?
+
+   C'est un peu ça.
+   Même si les court-circuits peuvent être discutables, et tu trouveras
+   toujours quelqu'un pour dire "moi, j'ai fait ça, et ça m'a servi".
+   Une thèse au Japon pour postuler en France comme ap, c'est pas
+   "logique", surtout vu le peu de places selon les secteurs.
+   Pour cette histoire de double-diplômes, je connais pas bien TokyoTech,
+   mais je sais que d'une manière générale, le côté Japonais est réticent
+   à faire de nouveaux accords diplômants, à cause de la politique de
+   financement.
+   Une partie des cursus/diplômes est financé par un ministère, l'autre
+   part l'université. Les nouveaux cursus sont quasi-exclusivement suite à
+   décision ministèrielle, pas universitaire.
+   Les conventions de stage, et les MO existent par contre en pagaille,
+   notamment pour les périodes/stages de 6 mois. (ce qui permet,
+   rémunération,logement au sein de l'université..)
+   Faut bien comprendre que sur ton visa, il sera toujours mieux d'être
+   rattaché Ministère (ou Université) que "touriste longue-durée"
+   (assurances, louer un appartement, n'importe quelle procédure
+   administrative, etc..). Je caricature, mais tu n'aurais pas un visa de
+   travail, et pas un visa "étudiant", dans certains cas. Donc "créer" des
+   double-diplômes, changer les années, toussa, c'est souvent très
+   difficile.
+   Dans mon cas, par exemple, j'ai obtenu des droits de séjour random 6
+   mois pour le stage de M1, puis 2 ans pour M2 - thèse (ce qu'il faudra
+   renouveler)..
+   Si c'était pour une formation "nouvelle", avec des années qui coupent,
+   ya des problèmes de financement, de visa, et d'autres à toutes
+   échelles.
+   Lycée Masséna (Pcsi-PC*) -- École polytechnique (X15) -- PhD Student
+   (Japon, Astrophysique) -- Ingé (spatial)
+   Haut
+
+   Répondre
+
+
+   Aller
+
+   15 messages
+
+   Retourner vers « Questions générales sur les écoles »
+   Aller à
+
+
+   Développé par phpBB® Forum Software © phpBB Limited
+
+   Traduit par phpBB-fr.com
+

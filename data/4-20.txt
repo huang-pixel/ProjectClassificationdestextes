@@ -1,0 +1,317 @@
+
+   Formations
+   Alternance
+   Financements
+   Pour les entreprises
+
+   Vous utilisez un navigateur obsolète, veuillez le mettre à jour.
+
+   Veuillez utiliser un navigateur internet moderne avec JavaScript activé
+   pour naviguer sur OpenClassrooms.com
+
+Forums des Zéros
+
+   Une question ? Pas de panique, on va vous aider !
+
+
+   Partage
+
+Le diplôme : un mensonge ?
+
+   Benjyben
+
+   9 octobre 2018 à 20:28:38
+   Bonjour à toute la communauté,
+   Je me présente je suis benjamin j'ai 24ans, et j'habite en région
+   centre.
+   J'ai commencé à mes 16ans dans un apprentissage en coiffure , et finit
+   4 ans après suite à des problèmes de santé.
+   J'ai toujours été passionné de développement depuis mon adolescence, et
+   me suis dit ok, pourquoi pas me lancer dedans .
+    Malheureusement je n'avais pas le niveaux BAC pour rentrer dans une
+   école d'informatique et poursuivre mes études, on m'a donc conseiller
+   de faire un parcours DAEU ( Diplôme d'accès au études universitaire )
+   ce que j'ai fait .
+   Bon il n'y avait pas assez de membres pour ouvrir une classe dans la
+   catégorie scientifique et on m'a proposé de suivre le parcours
+   littéraire ce que j'ai bien évidement fait .
+   Quand j'ai alors eu mon diplôme je me suis rendu dans la même école qui
+   m'avait conseiller ce parcours et à ce moment la on m'as dit que je
+   n'avais pas le niveau nécessaire en mathématiques pour intégrer l'école
+   ... ( la blague au bout de 2 ans ) alors que j'avais déjà suivit des
+   cours d'Openclassrooms et créer mes premiers programmes en C / C++...
+   J'ai abandonné l'idée de devenir développeur, et continuer des jobs qui
+   n'avait aucun intérêt à par financier jusqu’au jour ou j'ai reçu ce
+   mail me disant qu'une cession de développement allait ouvrir et j'ai
+   donc SAUTER sur l'opportunité !
+   J'ai suivit la formation à l'AFPA en 2016 pour obtenir le diplôme de
+   développeur logiciel ( niveau III ) et enfin pouvoir travailler dans le
+   développement informatique.
+   Ensuite j'ai commencer ma recherche d'emploi dans le développement
+   JavaJ2EE, mais bon au bout d'une centaine de refus, j'ai décider de
+   postuler dans toutes les entreprises que je voyait pour proposer mes
+   services :
+   Le premier travail que j'ai eu était en tant que développeur Wordpress
+   ( 3 mois ), puis un autre travail de développeur web ( 6 mois ) et
+   finit par un job de Community manager ( 2 mois ) . J'ai toujours été
+   postuler en spontanée pour obtenir mes jobs , j'ai décider la semaine
+   dernière de m'inscrire à une agence d'intérim afin de trouver des
+   offres plus intéressantes et maximise mes chances dans le monde du dev.
+   J'ai alors eu un entretien avec ce conseiller d'intérim pour mettre en
+   place mes compétences, mon parcours...
+   Cette personne m'a alors dit que je ne pourrais jamais devenir
+   développeur ( que ce soit en logiciel JavaJ2EE ou web php/symphony) car
+   je n'avais ni la formation ni l’expérience pour.
+   Cette même personne m'as conseiller de soit postuler en tant que
+   technicien Informatique ou reprendre mes études jusqu'au master.
+   je voulais juste avoir votre avis sur ce sujet, pensez vous que je
+   devrais arrêter ma recherche en tant que développeur et continuer sur
+   autre chose ? ( je ne peut pas reprendre mes études j'ai un loyer à
+   payer et je ne me voit pas reprendre mes études avec le niveau
+   théorique très bas que j'ai et avoir un travail à coter ).
+   Au bout de 5 années pour devenir un dev, l'agence d'intérim à foutu en
+   l'air tout mes rêves très honnêtement je suis totalement perdu.
+   De plus je suis quelqu'un d'assez peu confiant, et seul. j'ai une bonne
+   présentation et un blabla très pro( de mes précédentes exp ) mais tout
+   ce qui sort de ma bouche lors des entretiens sont du bégaiement et je
+   perd tout mes moyens.
+   Ps : on m'a dit soit tu vas à paris sois tu oublie .
+   J'ai pensé à devenir freelance, qu'en pensez vous ?
+   Devrait-je m'acharner et continuer ma recherche selon vous ?
+   Je vous remercie pour avoir lu mon message, et espère avoir été assez
+   clair .
+   Bonne journée
+   Benjamin
+
+   -
+   Edité par Benjyben 9 octobre 2018 à 20:41:44
+
+   la connaissance s'acquiert par l'expérience, le reste n'est
+   qu'information.
+   LoupSolitaire
+
+   10 octobre 2018 à 2:31:20
+
+   Te laisse pas décourager par le commentaire d'une seule personne, c'est
+   juste son opinion.
+
+   Par contre niveau déménagement, t'es pas obligé d'aller à Paris, mais
+   le Centre n'est sans doute pas le meilleur coin pour trouver un boulot
+   de développeur.
+
+   D'ailleurs vu le coût de la vie, je te déconseille plutôt Paris, à
+   moins d'aimer tout ce qu'on trouve là-bas et pas ailleurs (plein de
+   gens, grosse activité culturelle...). Il y a plein de villes dans
+   lesquelles on peut trouver du boulot en ayant une qualité de vie
+   meilleure. Ça peut être Lyon, Bordeaux, Lille, Toulouse, Nantes,
+   Rennes...
+
+   Blond, bouclé, toujours le sourire aux lèvres...
+   Sennacherib
+
+   10 octobre 2018 à 10:46:12
+
+   Le point positif qui ressort de vos messages est la volonté d'évoluer
+   et les efforts entrepris pour  réussir dans le métier visé.
+
+   Il y a eu déjà des discussions sur la valeur d'une formation AFPA  sur
+   OC.
+   Voir par
+
+   Les avis sont contrastés, me semble -t-il après une lecture en
+   diagonale,  sur la valeur du diplôme.
+   Il semble que en particulier AFPA sans niveau préalable minimum
+   sciences  soit un obstacle et avoir fait une mise à niveau via un  DAEU
+   littéraire faute d'autre possibilité n'est sans doute pas l'idéal. Le
+   tout peut expliquer les nombreux refus que vous avez essuyés et la
+   position de l'agence. Mais, après un délai aussi court d'inscription et
+   comme le dit Loupsolitaire, avec l'avis d'une seule personne, c'est
+   tôt pour être découragé.
+
+   A partir de ce lien, un avis direct de membres qui sont passés par
+   l'AFPA et ont pu obtenir un emploi peut être utile pour une stratégie à
+   suivre.
+
+     remarque: vous ne dites pas pourquoi la durée de chaque emploi cité
+   est restée si  brève. Amènent-t-ils quelque chose à votre CV en tant
+   que démonstration de vos capacités de développeur?
+
+   -
+   Edité par Sennacherib 10 octobre 2018 à 10:47:23
+
+   tout ce qui est simple est faux, tout ce qui est compliqué est
+   inutilisable
+   Benjyben
+
+   10 octobre 2018 à 13:29:43
+
+   Merci pour vos réponses,
+   Pour mon délai aussi court je pense que ce ne soit pas un problème du
+   fait que la personne de l'agence ne veut pas me proposer pas
+   d'entretien pour des postes de développeurs mais en tant que technicien
+   helpdesk.
+
+   Mes emplois sont court oui, le premier que j'ai eu en tant que
+   développeur Wordpress c'est moi même qui ai donné ma démission (je
+   faisait 50% de développement et 50% en tant que ouvrier) , le deuxième
+   j'avais juste un CDD de 6 mois pour une refonte de site internet, et
+   mon troisième j'ai juste été la pour le lancement d'une start-up et ce
+   n'étais pas du tout du développement.
+
+   Sur mon cv, mes deux premiers emplois démontre ce que j'ai pu faire en
+   tant que développeur, j'ai même travailler comme si je faisait de L'UX
+   pour mettre en valeur mon parcours.
+
+   Dans mon parcours j'ai eu d'autre emplois qui ne sont pas du tout lié à
+   l'informatique, j'ai donc préféré ne pas les mettre en avant dans mon
+   CV.
+
+   la connaissance s'acquiert par l'expérience, le reste n'est
+   qu'information.
+   Benzouye
+
+   10 octobre 2018 à 13:54:04
+
+   Bonjour,
+
+Mauvais forum
+
+   Le sujet est déplacé de la section Discussions générales vers la
+   section Vos études
+
+   Seul on va plus vite, ensemble on va plus loin ... A maîtriser :
+   Conception BDD, MySQL, PHP/MySQL
+   Benito56
+
+   10 octobre 2018 à 15:40:49
+
+   Déjà félicitation pour ton parcours. C'est vraiment pas évident ce que
+   tu as fais et ça serait dommage d'abandonner maintenant.
+
+   Le point positif c'est que tu as aujourd'hui le niveau bac, un diplôme
+   dans l'informatique et un peu d'expérience pro.
+
+   Je te conseil de bien travailler ton CV, hésite pas à redoré ton exp
+   sans non plus mentir mais met le vraiment en avant. (pour tes missions
+   dans l'info). Travaille aussi les entretiens, si c'est pas ton point
+   fort il faut que tu t'améliores (vois avec pole emploie, ils font des
+   stages il me semble)
+
+   Dis toi que si tu as déjà trouvé du boulot, t'en retrouveras d'autre.
+
+   Concernant la formation, regarde vers le CNAM, tu peux passer des
+   diplômes à distance et par étape ( bac+3, +4, +5).
+
+   T'es jeune, pas de contrainte familiale, mobile, t'as du temps libre
+   (normalement). Bref, continue tes efforts ça va payer !
+
+   Donnie.
+
+   10 octobre 2018 à 16:58:30
+
+   Tu cibles quelles technos lors de tes recherches généralement ?
+
+   Je sais que pour un débutant c'est très difficile de trouver un poste
+   en Java EE.
+
+   Anonyme
+
+   10 octobre 2018 à 19:33:36
+   Bonjour, sacré parcours et très courageux, j'ai pas grand chose à
+   rajouter de ce qui a été déjà dit : ne pas se décourager à cause de
+   cette boîte d'intérim (c'est horrible de casser les gens comme ça). Tu
+   n'es pas obligé de venir sur Paris pour trouver du travail c'est juste
+   la ville où il y a  plus de poste, fin la région (île de France) où il
+   y a plus de postes, mais forcément les plus exigeants je trouve.
+   T'auras pu voir pour faire de l'alternance mais est ce que ça sera
+   suffisant pour vivre ?
+
+   Benjyben
+
+   11 octobre 2018 à 18:06:14
+
+   Pour mon parcours j'ai maintenant un diplôme développeur Logiciel
+   équivalent Bac+2, mais cela ne suffit pas :/
+
+   Sur mes techno je suis sur JavaEE c'est en gros la spé sur laquelle on
+   à le plus travailler mais je travail beaucoup dans le web, avec
+   wordpress  php/mysql et javascript.
+   Je maitrise plutôt pas mal tout ce qui est back-end en web (
+   jquery/ajax Node.js/sockets three.js ) mais je n'ai aucune connaissance
+   par exemple en Symfony ou Angular .
+
+   Justement je pense que l'alternance reste une bonne idée mais j'ai un
+   niveau d'études théorique de 3ème, j'ai toujours eu de grande
+   facilitées en Mathématiques mais j'ai quand même peur des examens ne
+   sont ils pas à un niveau trop élevé ?
+
+   la connaissance s'acquiert par l'expérience, le reste n'est
+   qu'information.
+   Anonyme
+
+   11 octobre 2018 à 18:19:30
+
+   B2ebn a écrit:
+
+     Pour mon parcours j'ai maintenant un diplôme développeur Logiciel
+     équivalent Bac+2, mais cela ne suffit pas :/
+
+     Sur mes techno je suis sur JavaEE c'est en gros la spé sur laquelle
+     on à le plus travailler mais je travail beaucoup dans le web, avec
+     wordpress  php/mysql et javascript.
+     Je maitrise plutôt pas mal tout ce qui est back-end en web (
+     jquery/ajax Node.js/sockets three.js ) mais je n'ai aucune
+     connaissance par exemple en Symfony ou Angular .
+
+     Justement je pense que l'alternance reste une bonne idée mais j'ai
+     un niveau d'études théorique de 3ème, j'ai toujours eu de grande
+     facilitées en Mathématiques mais j'ai quand même peur des examens ne
+     sont ils pas à un niveau trop élevé ?
+
+   Bah écoute je vise les mêmes technos que toi j'ai un DUT informatique +
+   une licence pro, j'ai repris de 0 en licence pour avoir un bac +5 Parce
+   que j'ai bien vu les offres d'emploi et des RH me l'ont clairement dit
+   que les boîtes surtout les grosses boîtes (et surtout continuer avec
+   une lpro bah c'est mort) préfèrent largement les bac +5. J'ai croisé
+   une ancienne camarade qui s'est arrêtée au DUT et pareil CDD de 3 mois
+   puis chômage, elle m'a dit tu fais bien de continuer.
+
+   Concernant l'alternance, il faut voir avec les écoles types Supinfo,
+   Epitech, il y en a pleins d'autres bien sûr a toi de voir laquelle te
+   correspond le plus et est le plus près de chez toi. Si tu as
+   l'équivalent d'un bac +2 + de l'expérience tu ne devrais pas avoir de
+   soucis à être accepté dans ces écoles en 3eme annee et pareil au niveau
+   des employeurs. Je trouve que ce serait pas mal pour toi.
+
+   Franchement 24 ans, tu as le temps, j'ai 25 ans mais du coup je vais
+   finir à 30 ans avec ma reprise de 0 donc ne t'inquiète pas.
+
+   -
+   Edité par Anonyme 11 octobre 2018 à 18:21:22
+
+Le diplôme : un mensonge ?
+
+   × Après avoir cliqué sur "Répondre" vous serez invité à vous connecter
+   pour que votre message soit publié.
+   × Attention, ce sujet est très ancien. Le déterrer n'est pas forcément
+   approprié. Nous te conseillons de créer un nouveau sujet pour poser ta
+   question.
+
+
+   Vous pouvez rédiger votre message en Markdown ou en HTML uniquement.
+   × ×
+
+Supprimer
+
+   Vous n'avez pas les droits suffisant pour supprimer ce sujet !
+   × ×
+
+Modérer
+
+   ×
+
+Signaler le message aux modérateurs
+
+
+
+

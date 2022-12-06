@@ -1,0 +1,138 @@
+   #Qiita
+
+   ____________________
+   ____________________
+   LoginSignup
+   TrendQuestionOrganizationEventQiita Blog
+   けんちょん(大槻 兼資)さん登壇！Qiita Advent Calendar Online Meetup 1/21(金)開催詳しくはこちら
+   (BUTTON)
+   175
+   (BUTTON) 126
+   (BUTTON) (BUTTON)
+   (BUTTON)
+   Improve article
+   Send edit request
+   Article information
+   RevisionsEdit RequestsShow all likersShow article in Markdown
+   Report article
+   Help us understand the problem. What are the problem?
+   [ ] It's violation of community guideline
+   [ ] It's illegal
+   [ ] It's socially inappropriate
+   [ ] It's spam
+   (BUTTON) Submit
+
+   More than 5 years have passed since last update.
+   [1522632637]
+   @ybiquitous(株式会社ビビッドガーデン)
+
+   posted at 2016-02-05
+
+   updated at 2016-02-05
+   Organization
+
+ケバブケース（kebab-case）について調べた
+
+   命名規則プログラミング言語
+
+動機
+
+   キャメルケース（CamelCase）は知っていたが、HTMLやCSSなどで使われているハイフン（-）で単語を区切ることを何というのか気になった
+   ので、調べてみた。
+
+調べた結果
+
+   ケバブケース（kebab-case）というらしい。Lispでも使われるので lisp-case とも。
+
+疑問
+
+   何故 ケバブ ？
+   理由を探したが見つからなかった…。
+
+   → 「串刺し」 だからだそうです（コメントより）。@riocampos @__hage さん、ありがとうございます！ :smile:
+
+まとめ
+
+     名称        用例           主な言語
+   キャメルケース camelCase  Java, JavaScript
+   スネークケース snake_case PHP, Python, Ruby
+   ケバブケース  kebab-case HTML, CSS, Lisp
+
+参考にしたサイト
+
+     * http://stackoverflow.com/questions/11273282/whats-the-name-for-hyph
+       en-separated-case
+     * https://en.wikipedia.org/wiki/Snake_case
+     * https://en.wikipedia.org/wiki/CamelCase
+     * https://en.wikipedia.org/wiki/Naming_convention_(programming)
+     * https://ja.wikipedia.org/wiki/ケバブ
+
+   lodash.js にはケバブケースに変換する関数がある。
+     * https://lodash.com/docs#kebabCase
+
+   本文に関係ないけど、Web系の命名規則の推奨されるやり方が載っていたので、メモしておく。
+     * http://www.w3schools.com/html/html5_syntax.asp
+
+   (BUTTON) (BUTTON)
+   Why not register and get more from Qiita?
+    1. We will deliver articles that match you
+       By following users and tags, you can catch up information on
+       technical fields that you are interested in as a whole
+    2. you can read useful information later efficiently
+       By "stocking" the articles you like, you can search right away
+       What you can do with signing up
+
+   Sign upLogin
+   (BUTTON)
+   175
+   (BUTTON) 126
+   (BUTTON)
+   Improve article
+   Send edit request
+   Article information
+   RevisionsEdit RequestsShow all likersShow article in Markdown
+   Report article
+   Help us understand the problem. What are the problem?
+   [ ] It's violation of community guideline
+   [ ] It's illegal
+   [ ] It's socially inappropriate
+   [ ] It's spam
+   (BUTTON) Submit
+
+   How developers code is here.
+   © 2011-2022Qiita Inc.
+
+   Guide & Help
+          About
+          Terms
+          Privacy
+          Guideline
+          Design Guideline
+          Feedback
+          Help
+          Advertisement
+
+   Contents
+          Release Note
+          Event
+          Advent Calendar
+          Qiita Award
+          API
+          Qiitadon（β）
+
+   SNS
+          @Qiita
+          @qiita_milestone
+          @qiitapoi
+          @Qiita
+
+   Our service
+          Qiita Team
+          Qiita Jobs
+          Qiita Zine
+          Official Shop
+
+   Company
+          About Us
+          Careers
+          Qiita Blog

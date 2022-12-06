@@ -1,0 +1,269 @@
+   Sign-up now. Start my free, unlimited access.
+   Login Register
+     * White Papers
+     * Definitions
+     * Java DevOps
+
+   RSS
+     * Topic Enterprise Java development
+          + Java in the cloud
+          + Java tools
+          + Java management
+          + Mobile app dev
+          + Modular code
+          + Architecture
+          + Web dev tools
+          + All Topics
+     * SubTopic Languages
+          + Java app deployment
+          + DSLs
+          + JSRs and APIs
+          + JVM languages
+          + Languages
+          + All Subtopics
+
+     * Follow:
+     *
+     *
+
+     * Home
+     * Languages
+     * Software Developer
+     * Kebab case
+
+   Definition
+
+Kebab case
+
+     * Share this item with your network:
+
+   Cameron McKenzie
+   By
+     * Cameron McKenzie, TechTarget
+
+   Kebab case -- or kebab-case -- is a programming variable naming
+   convention where a developer replaces the spaces between words with a
+   dash.
+
+   Programming variable names should be descriptive. Two or more words are
+   often required to properly convey a resource's meaning. However, most
+   programming languages don't allow spaces between words.
+
+   The kebab case naming convention attempts to overcome this limitation
+   by replacing spaces between words with a dash.
+
+   The term comes from the associated imagery of a skewer in a kebab. The
+   skewer pierces multiple piece of food together on a shish kebab. In
+   code, the dash represents the skewer and keeps multiple words together
+   to describe a resource's meaning, a la a shish kebab.
+
+Kebab case examples
+
+   Here are three examples of the kebab case naming convention:
+     * descriptive-variable-name
+     * INTERESTING-TEXT-FILE
+     * naming-conventions-webpage
+
+Kebab case vs. snake case
+
+   Kebab case is a similar naming convention to snake case -- or
+   snake_case. Both conventions help a developer read code because the
+   white space -- either a dash in kebab case or an underscore in snake
+   case -- between words reads like a normal sentence.
+   Variable naming conventions
+
+   Snake case contrasts more distinctly with the CamelCase naming
+   convention. In CamelCase, whitespace is removed between compound words.
+   It replaces the dash or underscore with an uppercase letter to
+   represent the start of the next word. For example:
+     * snake_case_example
+     * CamelCaseExample
+     * kebab-case-example
+
+Scream kebabs
+
+   If a developer uses all uppercase letters in a variable with the kebab
+   case convention, it's known as a scream kebab. The term owes its name
+   to the thought that when people on social media type sentences with
+   upper case letters, they're screaming. For example:
+     * THIS-IS-A-SCREAM-KEBAB
+     * this-is-not-a-scream-kebab
+
+Problems with kebab case
+
+   The biggest problem with kebab case lies mainly on the use of a dash.
+   Many programming languages will interpret the dash as a minus sign, and
+   it unintentionally creates software bugs that are difficult to isolate
+   and troubleshoot.
+
+   Similarly, many programming languages -- such as Jekyll -- will assume
+   numbers separated by a dash are dates. This misinterpretation can cause
+   problems when a developer uses kebab case with spreadsheets or
+   calendar-based applications.
+
+   In the software development community, snake case is typically the
+   preferred naming convention. Snake case creates the maximum white space
+   between compound words in a variable with an underscore.
+
+   While kebab case can be useful, a developer must be aware that a dash
+   can cause unintentional issues with non-letter code.
+   This was last updated in December 2020
+
+Continue Reading About Kebab case
+
+     * Convert code to kebab case
+
+     * Why you should make kebab case a URL naming convention best
+       practice
+
+     * Follow these best practices on how to write clean code in Java
+
+     * What is snake case?
+
+Related Terms
+
+   CSS (cascading style sheets)
+          This definition explains the meaning of cascading style sheets
+          (CSS) and how using them with HTML pages is a user interface
+          (UI) ... See complete definition
+
+   Python
+          Python is a high-level, general-purpose, interpreted
+          object-oriented programming language. See complete definition
+
+   runtime
+          Runtime is a piece of code that implements portions of a
+          programming language's execution model. See complete definition
+
+Dig Deeper on Software programming languages
+
+     * [javascript]
+
+Kebab vs. camel case: How these naming conventions differ
+       [mckenzie_cameron.jpg]
+       By: Cameron McKenzie
+     * [mckenzie_cameron.jpg]
+
+How to pass variables as UiPath arguments
+       [mckenzie_cameron.jpg]
+       By: Cameron McKenzie
+     * [mckenzie_cameron.jpg]
+
+Java naming conventions, explained
+       [mckenzie_cameron.jpg]
+       By: Cameron McKenzie
+     * [mckenzie_cameron.jpg]
+
+McAfee CTO: Use data to make better cyber-risk decisions
+       [culafi_alexander.jpg]
+       By: Alexander Culafi
+
+   Sponsored News
+     * Is DASH Enough? Identifying the Real Needs of PC Fleet Management
+       –Intel
+     * Zoned Storage Takes On the Zettabyte Age –Western Digital
+
+   Vendor Resources
+     * 2020 Cyber Threat Landscape –Deep Instinct
+     * The Devil's Right Hand: An Investigation on Malware-oriented
+       Obfuscation ... –ComputerWeekly.com
+
+   Latest TechTarget resources
+     * SearchAppArchitecture
+     * Software Quality
+     * Cloud Computing
+     * Security
+     * AWS
+
+   SearchAppArchitecture
+     * Micro apps vs. microservices: What developers should know
+       On the surface, the contrast between micro apps and microservices
+       simply seems a matter of front-end vs. back-end concerns. But ...
+     * The ups and downs of using an internal developer platform
+       IDPs can provide a productive and secure environment for
+       development teams. Consider the pros and cons to see if an internal
+       ...
+     * An intro to cloud-native microservices and how to build them
+       While there are a variety of ways to develop cloud-native
+       microservices, focus on strategies that enable as much agility, ...
+
+   SearchSoftwareQuality
+     * Understanding code smells and how refactoring can help
+       Code smells can be the canary in the coal mine for poor coding. And
+       poor coding is a sign that refactoring is called for. Let's ...
+     * 3 important considerations before outsourcing Agile
+       To successfully outsource an Agile development practice,
+       organizations must prioritize communication and provide ample
+       onboarding...
+     * Follow this Harness IO tutorial to get started with CI/CD
+       This tutorial gives an overview of the options and features
+       available to users of Harness IO and walks through how to build and
+       ...
+
+   SearchCloudComputing
+     * Kyndryl, Cloudera announce data transformation partnership
+       Kyndryl has signed another partnership as it continues to forge
+       independence from IBM -- this time with Cloudera, to help ...
+     * How to create an EC2 instance from AWS Console
+       AWS has made launching EC2 instances an easy task, but there are
+       still many steps to the final result. Learn how to successfully ...
+     * How to approach cloud compliance monitoring
+       Compliance monitoring is a critical practice. Learn how to build a
+       cloud compliance monitoring strategy from application design ...
+
+   SearchSecurity
+     * LokiLocker ransomware crew bursts onto the scene
+       The mysterious LokiLocker ransomware group caught the attention of
+       BlackBerry researchers who say the outfit could become the ...
+     * FTC accuses CafePress of covering up 2019 data breach
+       The proposed FTC settlement would require CafePress' former owner
+       to pay $500,000 in compensation to customers who were ...
+     * Biden signs law on reporting critical infrastructure cyber attacks
+       President Joe Biden signed a law that requires critical
+       infrastructure entities to report cyber attacks within 72 hours and
+       ...
+
+   SearchAWS
+     * In search of AWS Solutions Architect preparation?
+       Think you're ready for the AWS Certified Solutions Architect
+       certification exam? Test your knowledge with these 12 questions,
+       and...
+     * Experts raise privacy concerns over Amazon fleet surveillance
+       Amazon said its van monitoring system is designed solely for driver
+       safety. But many industry experts have concerns regarding the...
+     * Here's why Amazon's global expansion won't come easy
+       Amazon would like to strengthen its global footprint, but the
+       e-commerce giant faces roadblocks and challenges today that did
+       not...
+
+     * About Us
+     * Editorial Ethics Policy
+     * Meet The Editors
+     * Contact Us
+     * Advertisers
+     * Business Partners
+     * Media Kit
+     * Corporate Site
+
+     * Contributors
+     * Reprints
+     * Answers
+     * Definitions
+     * E-Products
+     * Events
+     * Features
+
+     * Guides
+     * Opinions
+     * Photo Stories
+     * Quizzes
+     * Tips
+     * Tutorials
+     * Videos
+
+   All Rights Reserved, Copyright 2000 - 2022, TechTarget
+   Privacy Policy
+   Cookie Preferences
+   Do Not Sell My Personal Info
+
+   Close
