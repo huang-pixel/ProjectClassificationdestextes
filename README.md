@@ -30,7 +30,7 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 
 
 ## Testing Procedures 
-•	Classification by Rank-Order Statistics 
+●	Classification by Rank-Order Statistics 
 -	tokenize each test string using N-grams of sizes 2, 3, 4, 5, 6 and 7 
 -	no preprocessing of the string 
 -	to classify the string using the rank-order statistical method, while tokenizing, count each N-gram and increment the counter if it occurred multiple times 
@@ -39,13 +39,13 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 -	a default maximum distance of 1000 to a test N-gram without a match in the training database for any language
 -	sum and sort the rank ordered distances from lowest to highest -> the language with the lowest number as the language category 
 
-•	Classification using Cumulative Frequency Addition:
+●	Classification using Cumulative Frequency Addition:
 -	tokenize each test string using N-grams of sizes 2, 3, 4, 5, 6 and 7 and build an N-gram list 
 -	no preprocessing of string
 -	provide the N-grams participating in the classification of both the training and test N-grams
 -	delete from the calculation any test N-gram with no match in the training database for any language
 
-•	Classification using Naïve Bayesian Classifier
+● Classification using Naïve Bayesian Classifier
 -	use the same set of candidate N-grams from above for the NBC method
 -	instead of addition, multiply the normalized frequencies of all candidate N-grams from each language of the training set
 -	the language that produced the highest number = identified as the correct one
@@ -57,7 +57,10 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 ### Naïve Bayesien
 ![image](https://user-images.githubusercontent.com/106084825/205983292-722178cb-0eb1-448a-a2ba-167c23107ec4.png)
 
-
+## Problems and Reflection 
+● Script optimization is necessary to improve detection accuracy. Let's say we run with strange results, but we can't find a more reasonable solution for the moment
+● For corpus preprocessing. We followed the experimental approach of the N gram papers (the authors did not perform this preprocessing process), but in practice we found that not performing this step would have had some impact on the subsequent results.
+● We lack the time to perform each task in the project in more detail.
 
 
 
