@@ -52,6 +52,13 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 
 ## Results 
 ### 3-grammes (ENG, TRK, FRA)
+![image](https://user-images.githubusercontent.com/106084825/205982212-07d8453b-75b8-4d56-a6f9-633f160a3042.png)  
+
+### Naïve Bayesien
+![image](https://user-images.githubusercontent.com/106084825/205983292-722178cb-0eb1-448a-a2ba-167c23107ec4.png)
+
+
+
 
 
 
