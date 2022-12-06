@@ -3,14 +3,31 @@
 Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts each)
 
 
-## References 
-“Language Identification from Text Using N-gram Based Cumulative Frequency Addition” 
+## References : Google scholar
+[Language Identification from Text Using N-gram Based Cumulative Frequency Addition](https://www.researchgate.net/profile/Charles-Tappert/publication/265405649_Language_Identification_from_Text_Using_N-gram_Based_Cumulative_Frequency_Addition/links/54ac4c110cf2479c2ee7b15e/Language-Identification-from-Text-Using-N-gram-Based-Cumulative-Frequency-Addition.pdf)  
+
 -> Language classifier using an ad-hoc Cumulative Frequency Addition of N-gram 
 (in comparison with 2 other methods: rank-order statistics and Naïve Bayesian classifier)
 
-“Automatic Language Identification in Texts: A Survey”
-“Language Identification of Short Text Segments with N-gram Models “
+[Automatic Language Identification in Texts: A Survey](https://www.jair.org/index.php/jair/article/view/11675)  
+
+[Language Identification of Short Text Segments with N-gram Models](https://aclanthology.org/L10-1193/)
 -> to complement some missing information
+
+## State of the art 
+### Statistical approach :  
+
+- N-gram Based Cumulative Frequency Addition
+- Rank-Order Statistics  
+
+### Naïve Bayesian classification
+- Retrieve the labeled corpus
+- Cleaning the text to remove symbols
+- Build a dataset
+- Vectorization 
+- Prediction 
+- Get the result
+
 
 ## Testing Procedures 
 •	Classification by Rank-Order Statistics 
@@ -32,4 +49,9 @@ Web pages in Chinese, English, French, Japanese, Korean and Turkish (25 texts ea
 -	use the same set of candidate N-grams from above for the NBC method
 -	instead of addition, multiply the normalized frequencies of all candidate N-grams from each language of the training set
 -	the language that produced the highest number = identified as the correct one
+
+## Results 
+### 3-grammes (ENG, TRK, FRA)
+
+
 
